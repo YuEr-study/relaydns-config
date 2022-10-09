@@ -3,7 +3,7 @@
     "pejuangkasino.com": "kassadin",
     "127.0.0.1": "kassadin"
   },
-  "siteGroup": {
+  "siteGroups": {
     "kasssadin": ["pejuangcasino.com","pejuangkasino.me","pejuangkasino.live","pejuangkasino.shop","pejuangkasino.id","pejuangkasino.net"]
   },
   "availabilityQuery": "https://trustpositif.kominfo.go.id/Rest_server/getrecordsname_home",
