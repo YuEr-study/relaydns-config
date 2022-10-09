@@ -4,7 +4,7 @@
     "127.0.0.1": "kassadin"
   },
   "siteGroups": {
-    "kasssadin": ["pejuangcasino.com","pejuangkasino.me","pejuangkasino.live","pejuangkasino.shop","pejuangkasino.id","pejuangkasino.net","yebet.com"]
+    "kasssadin": ["pejuangkasino.net","yebet.com"]
   },
   "availabilityQuery": "https://trustpositif.kominfo.go.id/Rest_server/getrecordsname_home",
   "dnsQuery": [
