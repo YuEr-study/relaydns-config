@@ -1,0 +1,14 @@
+{
+  "inBound": {
+    "pejuangkasino.com": "kassadin",
+    "127.0.0.1": "kassadin"
+  },
+  "siteGroup": {
+    "kasssadin": ["pejuangcasino.com","pejuangkasino.me","pejuangkasino.live","pejuangkasino.shop","pejuangkasino.id","pejuangkasino.net"]
+  },
+  "availabilityQuery": "https://trustpositif.kominfo.go.id/Rest_server/getrecordsname_home",
+  "dnsQuery": [
+    "114.122.143.214",
+    "172.253.211.2"
+  ]
+}
