@@ -8,6 +8,10 @@
   },
   "availabilityQuery": "https://trustpositif.kominfo.go.id/Rest_server/getrecordsname_home",
   "dnsQuery": [
-    "103.98.117.221"
+    "182.253.45.122",
+    "103.122.33.19",
+    "139.255.115.163",
+    "202.58.200.38",
+    "103.83.100.65",
   ]
 }
