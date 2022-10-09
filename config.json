@@ -3,8 +3,14 @@
     "pejuangkasino.com": "kassadin",
     "127.0.0.1": "kassadin"
   },
-  "siteGroups": {
-    "kassadin": ["pejuangkasino.net","yebet.com"]
+  "siteGroup": {
+    "kassadin": ["pejuangcasino.com","pejuangkasino.me","pejuangkasino.live","pejuangkasino.shop","pejuangkasino.id","pejuangkasino.net"]
+  },
+  "telegramBot": {
+    "kassadin": {
+      "telegramBotToken": "5466635669:AAEvgypthqwLoGkyblMPqD6aNrI_ICSnS2M",
+      "telegramChatId": "953752129"
+    }
   },
   "availabilityQuery": "https://trustpositif.kominfo.go.id/Rest_server/getrecordsname_home",
   "dnsQuery": [
